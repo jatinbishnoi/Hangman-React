@@ -1,5 +1,5 @@
 function TextInput({ label, type = 'text', value, onChange }) {
- 
+
     return (
 
         <label className="block">
